@@ -1,0 +1,20 @@
+/* -------------- Do not edit ------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Mirza&display=swap');
+body {
+    font-family: 'Mirza', cursive;
+    font-size: larger;
+    text-align: center;
+    background-color: rgb(200,200,200);
+}
+p {
+    margin:0
+}
+#mcdev {
+    color: blue;
+}
+/* ---------- Add your CSS below ------------*/
+
+#example {
+    /* add whatever styles you want*/
+    color: rgb(50,50,50);
+}

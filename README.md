@@ -1,2 +1,2 @@
 # iWasHere
-A repository for students to write I was here on a page
+A repository for students to add their name / call sign to a page.
